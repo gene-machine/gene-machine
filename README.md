@@ -2,8 +2,6 @@
 
 🐆 - I graduated from Collin College with an AS in General Studies in August 2023
 
-☄️ - I am currently enrolled in UT Dallas' BS degree in Computer Science (expected completion May 2025)
+☄️ - I am currently enrolled in UT Dallas' Fast Track Master's in Computer Science (BS expected May 2025, MS expected May 2026)
 
-🖥️ - I have a CompTIA A+ certification, currently studying for the CISSP
-
-🇳🇱 - Ik spreek een beetje Nederlands!
+🖥️ - I have a CompTIA A+ certification, too broke to take the CISSP
